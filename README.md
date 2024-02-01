@@ -10,7 +10,7 @@ Requires internet access on the ilumr system via its ethernet connection.
 
 Open a terminal in the [jupyterlab interface](https://jupyterlab.readthedocs.io/en/stable/user/terminal.html) and run:
 
-    git clone https://github.com/Resonint/ilumr-courseware.git
+    git clone https://github.com/usc-ee591/ilumr-lab1.git
 
 #### Method 2: By downloading a zip file
 
